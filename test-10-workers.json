@@ -1,0 +1,16 @@
+{
+    "jobName": "actuary-10-workers",
+    "jobQueue": "actuary-computing-job-queue",
+    "arrayProperties": {
+        "size": 10
+    },
+    "jobDefinition": "actuary-computing-job-definition",
+    "containerOverrides": {
+        "environment": [
+            {
+                "name": "NUMBER_OF_WORKERS",
+                "value": "10"
+            }
+        ]
+    }
+}
