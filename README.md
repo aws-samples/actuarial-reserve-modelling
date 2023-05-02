@@ -1,6 +1,7 @@
-Actuarial-Reserve-Modelling
+## Actuarial-Reserve-Modelling
 
 Before you begin:
+
 It is recommended to run it on a machine other than Mac with M1 chip due to the differences of docker image OS architecture version that M1 chip produces versus what AWS Batch expects. For smooth running, we advise [spinning up](https://docs.aws.amazon.com/cloud9/latest/user-guide/create-environment.html) an [AWS Cloud9](https://aws.amazon.com/cloud9/) instance, copy this git repository in your instance environemnt and proceed straigth to the step #3 below. If you proceed with Cloud9 instance, make sure you [attach](https://catalog.us-east-1.prod.workshops.aws/workshops/ce1e960e-a811-475f-a221-2afcf57e386a/en-US/00-prerequisites/03-attach-machine-role) an IAM Role to the instance in the EC2 console.
 
 To run follow these steps:
