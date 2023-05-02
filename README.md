@@ -9,7 +9,7 @@ It is recommended to run it on a machine other than Mac with M1 chip due to the 
 ## Prerequsites
 - AWS Account(s) with IAM user(s) with appropriate permissions. 
 - Docker [installed](https://docs.docker.com/get-docker/) and running on your machine.
-- AWS CDK version 2 [installed](https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html)
+- AWS CDK version 2 [installed](https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html) and [bootstrapped](https://docs.aws.amazon.com/cdk/v2/guide/bootstrapping.html).
 - The AWS CLI [installed](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) and [configured](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)
 
 ## Deploy infrastructure
