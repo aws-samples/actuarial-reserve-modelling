@@ -2,9 +2,9 @@
 
 Actuarial modeling is a key component in the insurance industry, used for analyzing andpredicting various risks and potential losses. Due to the complexity of calculations involved, actuarial modeling requires significant computing power and resources. This is where AWS services such as [AWS High Performance Computing (HPC)](https://aws.amazon.com/hpc/) services come in. This repository is an addtion to [this]() blog post where we walk you through on how we can deploy scalable and cost-effective solution for actuarial computing using AWS services.
 
-## Before you begin:
+## Before you begin
 
-It is recommended to run it on a machine other than Mac with M1 chip due to the differences of docker image OS architecture version that M1 chip produces versus what AWS Batch expects. For smooth running, we advise [spinning up](https://docs.aws.amazon.com/cloud9/latest/user-guide/create-environment.html) an [AWS Cloud9](https://aws.amazon.com/cloud9/) instance, copy this git repository in your instance environemnt and proceed straigth to the step #3 below. If you proceed with Cloud9 instance, make sure you [attach](https://catalog.us-east-1.prod.workshops.aws/workshops/ce1e960e-a811-475f-a221-2afcf57e386a/en-US/00-prerequisites/03-attach-machine-role) an IAM Role to the instance in the EC2 console.
+It is recommended to run it on a machine other than Mac with M1 chip due to the differences of docker image OS architecture version that M1 chip produces versus what AWS Batch expects. For smooth running, we advise [spinning up](https://docs.aws.amazon.com/cloud9/latest/user-guide/create-environment.html) an [AWS Cloud9](https://aws.amazon.com/cloud9/) instance, copy this git repository to your Cloud9 instance environment and proceed with steps below. If you proceed with Cloud9 instance, make sure you [attach](https://catalog.us-east-1.prod.workshops.aws/workshops/ce1e960e-a811-475f-a221-2afcf57e386a/en-US/00-prerequisites/03-attach-machine-role) an IAM Role to the instance in the EC2 console.
 
 ## Prerequsites
 - AWS Account(s) with IAM user(s) with appropriate permissions. 
