@@ -1,6 +1,6 @@
 ## Actuarial-Reserve-Modelling
 
-Actuarial modeling is a key component in the insurance industry, used for analyzing andpredicting various risks and potential losses. Due to the complexity of calculations involved, actuarial modeling requires significant computing power and resources. This is where AWS services such as [AWS High Performance Computing (HPC)](https://aws.amazon.com/hpc/) services come in. This repository is an addtion to [this](https://aws.amazon.com/blogs/hpc/high-performance-actuarial-reserve-modeling-using-aws-batch/) blog post where we walk you through on how we can deploy scalable and cost-effective solution for actuarial computing using AWS services.
+Actuarial modeling is a key component in the insurance industry, used for analyzing and predicting various risks and potential losses. Due to the complexity of calculations involved, actuarial modeling requires significant computing power and resources. This is where AWS services such as [AWS High Performance Computing (HPC)](https://aws.amazon.com/hpc/) services come in. This repository is an addtion to [this](https://aws.amazon.com/blogs/hpc/high-performance-actuarial-reserve-modeling-using-aws-batch/) blog post where we walk you through on how we can deploy scalable and cost-effective solution for actuarial computing using AWS services.
 
 ## Before you begin
 
